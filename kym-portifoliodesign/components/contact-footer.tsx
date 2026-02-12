@@ -39,17 +39,17 @@ export function ContactFooter() {
                   href="mailto:engineer@example.com"
                   className="text-foreground hover:text-accent transition-colors"
                 >
-                  engineer@example.com
+                   paulkimoni0@gmail.com 
                 </a>
               </div>
 
               <div>
                 <h3 className="text-lg font-bold text-accent mb-2">Phone</h3>
                 <a
-                  href="tel:+254700000000"
+                  href="tel:0790629292"
                   className="text-foreground hover:text-accent transition-colors"
                 >
-                  +254 700 000 000
+                  0790629292
                 </a>
               </div>
 
